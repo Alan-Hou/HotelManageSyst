@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiro/authority/login/MemberDo_login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiro/authority/login/NomalDo_login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiro/hotel/authority/impl/login/DefaultMember_login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiro/hotel/authority/impl/login/DefaultNomalDo_login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiro/hotel/biz/login/ExpenseManage_login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiro/hotel/biz/login/FoodManage_login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiro/hotel/biz/login/MemberManage_login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiro/hotel/biz/login/ReserveManage_login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiro/hotel/biz/login/RoomManage_login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiro/hotel/entity/login/Expense_login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiro/hotel/entity/login/Expense_login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiro/hotel/entity/login/Food_login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiro/hotel/entity/login/Manager_login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiro/hotel/entity/login/Member_login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiro/hotel/entity/login/PrivateRoom_login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiro/hotel/entity/login/Reserve_login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiro/hotel/role/login/Role.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiro/hotel/test/login/HotelTest_login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hiro/hotel/test/login/HotelTest_login.java" charset="GBK" />
+  </component>
+</project>
